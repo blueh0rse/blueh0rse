@@ -2,7 +2,7 @@
 
 I am currently:
 - studying a Master of Cybersecurity
-- studying the eJPT certification
+- studying the CBBH certification
  
 Follow my work on [my personal portefolio](https://blueh0rse.github.io/) :)
 
