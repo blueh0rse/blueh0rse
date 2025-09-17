@@ -1,12 +1,14 @@
 # 👋 Hi, I’m @blueh0rse
 
-I am currently:
+I'm a Software Engineer specialized in Cybersecurity. I like to build and secure web apps :)
 
-- [ ] Studying the _CBBH_ 🏅
-- [ ] Studying the _Black Hat Python_ 📕
-- [x] ~~Studying a _Master of Cybersecurity_ 🎓~~
-- [x] ~~Studying the _eJPT_ 🏅~~
+🔭 **What I'm currently working on:**
+- Working fulltime as an half Software Engineer half AppSec Engineer
+- Developing new features
+- Implementing security tools in CI/CD pipelines
+- Performing code reviews and application vulnerability analysis
 
-Follow my work on [my little blog](https://blueh0rse.github.io/) :)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fblueh0rse.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+🌱 **What I'm currently learning:**
+- Deepening my knowledge of web vulnerabilities with PortSwigger Academy
+- Securing containers and dependencies using Trivy and other SCA tools
+- Analyzing and exploiting flaws in REST APIs following the OWASP API Top 10
