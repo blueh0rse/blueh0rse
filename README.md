@@ -1,14 +1,7 @@
-# 👋 Hi, I’m @blueh0rse
+**@blueh0rse | Application Security Engineer**
 
-I'm a Software Engineer specialized in Cybersecurity. I like to build and secure web apps :)
+Building and securing web apps using AppSec best practices, I shift security left by building automated DevSecOps pipelines.
 
-🔭 **What I'm currently working on:**
-- Working fulltime as an half Software Engineer half AppSec Engineer
-- Developing new features
-- Implementing security tools in CI/CD pipelines
-- Performing code reviews and application vulnerability analysis
-
-🌱 **What I'm currently learning:**
-- Deepening my knowledge of web vulnerabilities with PortSwigger Academy
-- Securing containers and dependencies using Trivy and other SCA tools
-- Analyzing and exploiting flaws in REST APIs following the OWASP API Top 10
+- ⚡ Focus: SCA, SAST, DAST, API Security, IAM...
+- 🛠️ Toolkit: Docker, GitHub Actions, AWS, Semgrep, Trivy, Betterleaks, Docker, Python
+- 🎯 Exploring: CodeQL, Threat Modeling, API Exploitation
